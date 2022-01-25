@@ -76,7 +76,7 @@ Agradecemos à seguinte pessoa que contribuiu para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/erick-vasconcelos-50baa8150/">
+      <a href="https://www.linkedin.com/in/erick-vasconcelos-50baa8150/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/67069017?v=4" width="100px;" alt="Foto do Erick no GitHub"/><br>
         <sub>
           <b>Erick Vasconcelos</b>
