@@ -17,50 +17,16 @@ Para instalar o {{nome do repositorio}}, siga estas etapas:
 
 Linux e macOS:
 ```
-npm install -g firebase-tools
+flutter pub get
 ```
 
 Windows:
 ```
-npm install -g firebase-tools
-```
-
-
-## 👨‍💻 Obter FIREBASE_TOKEN para por no actions
-
-```
-npx firebase login:ci
-```
-
-Copiar o token que recebeu no terminal. Depois ir na página do repository no Github > Settings > Secrets > New repository secret.
-
-```
-NAME: FIREBASE_TOKEN
-VALUE: SEU TOKEN
+flutter pub get
 ```
 
 
 ## ☕ Usando {{nome do repositorio}}
-
-### Para iniciar o projeto no firebase, siga estas etapas:
-
-```
-npx firebase login
-```
-
-```
-npx firebase init
-```
-
-```
-npx firebase deploy --only hosting
-```
-
-### Para subir o projeto para o firebase, siga estas etapas:
-
-```
-npx firebase deploy --only hosting
-```
 
 ### Para usar website, siga estas etapas:
 
