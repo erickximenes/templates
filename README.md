@@ -8,21 +8,21 @@
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Você instalou a versão mais recente do `NodeJS`
-* Você instalou a versão mais recente do `Flutter`
-* Você tem uma máquina `Windows`. O código não foi testado em `Linux` e `MacOS`.
+- Você instalou a versão mais recente do `NodeJS`
+- Você instalou a versão mais recente do `Flutter`
+- Você tem uma máquina `Windows`. O código não foi testado em `Linux` e `MacOS`.
 
 ## 🚀 Instalando {{nome do repositorio}}
 
 Para instalar o {{nome do repositorio}}, siga estas etapas:
 
 Linux e macOS:
-```
+```bash
 flutter pub get
 ```
 
 Windows:
-```
+```bash
 flutter pub get
 ```
 
@@ -31,10 +31,9 @@ flutter pub get
 
 ### Para usar website, siga estas etapas:
 
-```
+```bash
 flutter run
 ```
-
 
 ## 🤝 Colaborador
 
